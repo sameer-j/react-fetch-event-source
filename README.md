@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/@sameer-j%2Freact-fetch-event-source.svg)](https://badge.fury.io/js/@sameer-j%2Freact-fetch-event-source)
+
 # About this repo/package.
 
 This package has been forked from the @microsoft/fetch-event-source as their owners are not active and accepting PRs anymore. I will try to keept this library as much up-to-date as possible with other PRs available on the main repo. Please beware that I don't intend to make this library compatible with nodejs backend. This is primarily for react and in future, react native.
